@@ -54,35 +54,38 @@ font-size: 100%;
 font-family:'Lato';
 }
 
-#header {
+header {
   padding: 60px;
   text-align: center;
   background: #1abc9c;
   color: white;
   font-size: 30px;
 }
-nav{
-    
+nav {
+    background-color: #5BBD1A;
+    padding: 10px;
+    font-size: 18px;
+
 }
+
 nav ul li{
     list-style: none;
     display: inline;
-    background: #21955F;
-    font-size: 16px;
-    
+    color: white;
+    font-size: 20px;
+    margin: 10px;
 }
 
-
 .paragraph{
- background: #21955F;
+    background: #21955F;
     color: white;
     font-size: 18px;
     font-family:'Lato';
     column-count: 2;
     padding: 20px;
-    justify-content: center;
+    text-align: justify;
+    padding-top: 0px;
 }
 
-.paragraph p{
-    padding-top:0px;
-}
+
+
