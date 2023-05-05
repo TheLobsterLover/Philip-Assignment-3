@@ -78,9 +78,13 @@ nav ul li{
     }
 }
 
-.table {
-    
+table {
+background: #21955F;
+color:white;
 }
 
+th {
+   style: "em"; 
+}
 
 
